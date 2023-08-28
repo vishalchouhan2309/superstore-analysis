@@ -1,4 +1,4 @@
-# IBM_Skillbuild_Data_Analytics_Intern
+
 Project Title: Data Analysis of Superstore Dataset
 
 Project Overview: This project analyzes a dataset of sales data from a fictional superstore. The goal of the project is to identify trends and patterns in the data that can help the superstore improve its business performance.
